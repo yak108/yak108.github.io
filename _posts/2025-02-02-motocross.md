@@ -1,5 +1,4 @@
 ---
-layout: post
 author: Jakob
 ---
 Motocross is a high-intensity, off-road motorcycle racing sport that pushes both riders and machines to their limits. Held on rough, natural-terrain tracks filled with jumps, sharp turns, and deep ruts, motocross demands exceptional bike control, physical endurance, and fearless aggression.
